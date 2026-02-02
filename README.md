@@ -30,3 +30,136 @@ This site can be hosted for FREE using **GitHub Pages**
 ---
 
 © 2026 ScarAstic. All rights reserved.# ebook-website-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your First 1 Crore Ebook</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.section {
+    padding: 50px 20px;
+}
+
+.highlight {
+    color: #FFD700;
+}
+
+.hero h1 {
+    font-size: 32px;
+    line-height: 1.3;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #ccc;
+}
+
+.btn {
+    display: inline-block;
+    background: #FFD700;
+    color: #000;
+    padding: 15px 35px;
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #ffbf00;
+}
+
+img {
+    max-width: 90%;
+    border-radius: 12px;
+    margin: 20px 0;
+}
+
+.dark {
+    background: #111;
+}
+
+.price-box {
+    background: #111;
+    padding: 30px;
+    border-radius: 15px;
+    display: inline-block;
+    margin-top: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<!-- HERO SECTION -->
+<div class="section hero">
+    <h1>₹0 Se Start Karke <span class="highlight">Apna Pehla 1 Crore</span> Kaise Kamao</h1>
+    <p>Step-by-step practical roadmap. No fake motivation. Sirf real earning systems.</p>
+    <img src="main-book.jpg" alt="Your First 1 Crore Ebook">
+    <br>
+    <a class="btn" href="https://wa.me/916230166305?text=I%20want%20to%20buy%2099rs%20ebook%20Your%20First%201Crore">BUY NOW FOR ₹99</a>
+</div>
+
+<!-- WHAT YOU'LL LEARN -->
+<div class="section dark">
+    <h2 class="highlight">Is Ebook Me Kya Milega?</h2>
+    <p>✔ Skill se income banane ka exact roadmap</p>
+    <p>✔ Freelancing client system</p>
+    <p>✔ Instagram se earning model</p>
+    <p>✔ Digital product income strategy</p>
+    <p>✔ ₹1 Crore tak ka execution plan</p>
+</div>
+
+<!-- BONUS -->
+<div class="section">
+    <h2>🎁 FREE Bonus Ebook Worth ₹999</h2>
+    <h3 class="highlight">The Owner's Playbook</h3>
+    <img src="bonus-book.jpg" alt="Bonus Ebook">
+    <p>Wealth mindset, business systems, and long-term money growth secrets.</p>
+</div>
+
+<!-- SOCIAL PROOF -->
+<div class="section dark">
+    <h2 class="highlight">Results Bolte Hain 🔥</h2>
+    <p>Log sirf padh nahi rahe — apply karke kama bhi rahe hain</p>
+    <img src="feedback1.jpg" alt="Feedback">
+    <img src="feedback2.jpg" alt="Feedback">
+    <img src="feedback3.jpg" alt="Feedback">
+</div>
+
+<!-- PRICE SECTION -->
+<div class="section">
+    <div class="price-box">
+        <h2>Original Price <span style="text-decoration: line-through;">₹1299</span></h2>
+        <h1 class="highlight">LIMITED TIME OFFER ₹99</h1>
+        <p>Ek chhota decision. Life-changing system.</p>
+        <a class="btn" href="https://wa.me/916230166305?text=I%20want%20to%20buy%2099rs%20ebook%20Your%20First%201Crore">GET INSTANT ACCESS</a>
+    </div>
+</div>
+
+<!-- URGENCY -->
+<div class="section dark">
+    <h2>Ye Ebook Har Kisi Ke Liye Nahi Hai</h2>
+    <p>Sirf un logon ke liye jo excuses band karke action lene ko ready hain.</p>
+</div>
+
+<!-- FOOTER -->
+<div class="section">
+    <p>Instant delivery on WhatsApp after payment</p>
+    <p>No refunds (Digital Product)</p>
+</div>
+
+</body>
+  </html>
